@@ -19,3 +19,10 @@ git lfs pull
 #### Notes
 
 - this is CC, we do mine, extract and display data sometime with a special PDF viewer
+
+
+### Tools
+
+- [ISO (286) fit calculator](https://www.mesys.ch/calc/tolerances.fcgi?lang=en) | [Another Calculator](https://amesweb.info/fits-tolerances/tolerance-calculator.aspx)
+
+
